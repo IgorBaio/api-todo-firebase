@@ -1,5 +1,5 @@
 # Api Todo_firebase_api
-API Rest de um sintema de controle de ponto online
+API Rest de um sistema de TODO
 
  - Para instalação é necessário ter instalado na máquina o node.js e o npm ou yarn
  - Na pasta da aplicação execute o comando "npm install", para baixar todas as dependencias.
