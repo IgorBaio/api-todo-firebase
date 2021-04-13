@@ -1,7 +1,14 @@
-# Api Todo_firebase_api
-API Rest de um sistema de TODO
+# Bem-vindo ao Todo_firebase_api
+## Este projeto é uma API Rest de um sistema de TODO
 
- - Para instalação é necessário ter instalado na máquina o node.js e o npm ou yarn
- - Na pasta da aplicação execute o comando "npm install", para baixar todas as dependencias.
- - Execute o comando "npm start" para iniciar o servidor.
- - É preciso ter internet para poder se comunica com o banco de dados (mongodb online)
+## Instruções
+
+## npm install
+### Ao baixar o código, é necessário ter instalado na máquina o node.js e o npm, rode 'npm install'
+
+## Modo debug:
+### Ao término da instalação das dependências, pode executar o projeto com o comando 'npm start'
+### É preciso ter internet para poder se comunica com o banco de dados (mongodb online)
+
+## Modo Produção:
+### A api pode ser encontrada com o deploy já realizado através do HEROKU, por meio da seguinte URL: https://api-todo-firebase.herokuapp.com/ 
